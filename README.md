@@ -7,7 +7,7 @@
     npx prisma generate
     ```
 4. ```bash
-    npx prisma pull
+    npx prisma db pull
     ```
 5. ```bash
     nmp start
