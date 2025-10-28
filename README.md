@@ -10,5 +10,5 @@
     npx prisma db pull
     ```
 5. ```bash
-    nmp start
+    npm start
     ```
